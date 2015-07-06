@@ -26,7 +26,7 @@
     "enb-borschik": "^1.4.0",
     "enb-diverse-js": "^0.1.0",
     "enb-modules": "^0.2.0",
-    "enb-stylus": "git://github.com/enb-make/enb-stylus.git#749e57443bb0f12d6f97042afcbc6ce106f648a7",
+    "enb-stylus": "git://github.com/enb-make/enb-stylus.git#6c51a0ebd77b20e7d5c5ee1bef945d58800921c2",
     "stylus": "^0.47.3",
     "ym": "^0.1.0"
   },
